@@ -1,4 +1,4 @@
-# MILESTONE 3 FE
+# MILESTONE 5 FE
 
 ## Installation
 To run this project, you will need to install the necessary dependencies by running the following command in your terminal:
